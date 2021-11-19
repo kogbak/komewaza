@@ -1,0 +1,221 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+    width: 100vw;
+}
+
+
+
+nav{
+
+    background:white;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+
+
+.logo{
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-right: 100px;
+
+}
+
+
+
+
+ul{
+
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    margin-right: 100px;
+    cursor: pointer;
+    color: #003E52 ; 
+
+
+}
+
+
+ul li:hover{
+
+    color: #6cadc2;
+}
+
+
+.header-image{
+
+    width: 100%;
+
+}
+
+.cadre-epices{
+
+    background-color: white;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+    
+}
+
+.logo-epices{
+
+   
+    display: flex;
+    justify-content: flex-start;
+    height: 600px;
+    
+
+    
+
+}
+
+
+.text-epices{
+
+
+
+    flex-direction: column;
+    color:  #003E52;
+
+
+
+}
+
+.slider{
+
+    
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+
+
+
+.signature{
+
+    background-color: white;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color:  #003E52;
+    
+
+    
+    
+    
+    
+
+}
+
+
+.titre{
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    color:  #003E52;
+    
+
+
+   
+
+
+}
+
+
+.trait{
+
+
+    border-top : 1px solid #000;
+    width : 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    color:  #003E52;
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+table{
+
+    color:  #003E52;
+
+    width: 600px;
+    
+    
+
+}
+
+
+
+
+
+.sushis{
+
+    width: 100%;
+
+}
+
+iframe{
+
+    filter: grayscale(100%);
+}
+
+
+footer{
+
+height: 200px;
+background-color: #003e52;
+color: white;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+text-align: center;
+
+
+
+}
+
+
+span{
+
+
+    font-weight: bold;
+}
+
+
+.contact{
+
+
+
+}
+
+
